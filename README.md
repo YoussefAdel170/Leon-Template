@@ -71,3 +71,4 @@ It is ideal for anyone looking for a **clean, professional, and visually appeali
    ```bash
    cd Leon-Template
    ```
+3. Open **index.html** in your browser.
