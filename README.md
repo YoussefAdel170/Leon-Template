@@ -1,39 +1,73 @@
-# Responsive-Leon-Template-HTML5-And-CSS3
+# 🌟 Responsive Leon Template (HTML5 & CSS3)
 
-## Demo:
-https://yousifadel170.github.io/Leon-Template/
+![Leon Template Preview](screenshots/home.jpg)
 
-## Project Overview:
-The Leon Template is a minimalist and responsive website template built using HTML5 and CSS3. This template is designed to showcase services and portfolios, making it ideal for personal websites, agencies, or businesses looking to present their work and services in a clean and professional manner.
+> A clean and minimalist responsive website template built with HTML5 and CSS3, perfect for personal portfolios, agencies, or businesses.
 
-## Features:
-The website includes the following sections:
-### 1. Header Section
-Contains the website's logo and a navigation menu, allowing users to easily explore different sections of the website.
-### 2. Landing Section
-A visually engaging welcome section with a brief introduction and a prominent call-to-action button to guide users further into the website.
-### 3. Services Section
-A section that highlights the core services offered, each paired with icons and concise descriptions to quickly communicate their value.
-### 4. Portfolio Section
-Displays a grid or gallery of recent projects, with each item accompanied by images and descriptions, giving potential clients an overview of your work.
-### 5. About Section
-Provides details about the company or individual behind the website, including the mission, background, and values.
-### 6. Contact Section
-A form and contact information for users to reach out, including fields for name, email, message, and relevant business details like phone number and address.
-### 7. Footer
-Contains links to social media profiles, copyright information, and additional contact details.
+---
 
-## Technologies Used: 
-### HTML5: For structuring the content.
-### CSS3: For styling and layout design.
-### Responsive Design: Ensuring the website works well on mobile, tablet, and desktop devices.
+## 🔗 Live Demo
 
-## Installation:
-### 1. Clone the repository:
-git clone https://github.com/YousifAdel170/Leon-Template.git
-### 2. Navigate into the project directory:
-cd Leon-Template
-### 3. Open the index.html file in your preferred browser to view the website.
+[View the Leon Template Demo](https://youssefadel170.github.io/Leon-Template/)
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
+---
+
+## 📌 Project Overview
+
+**Leon Template** is a modern, fully responsive HTML5 & CSS3 template designed to elegantly showcase services, portfolio items, and personal or business information.  
+It is ideal for anyone looking for a **clean, professional, and visually appealing website**.
+
+---
+
+## ✨ Features
+
+- **Header** – Logo and smooth navigation menu.
+- **Landing Section** – Engaging introduction with call-to-action button.
+- **Services** – Highlight core offerings with icons and descriptions.
+- **Portfolio** – Showcase recent projects with images and details.
+- **About** – Information about the person or company, mission, and values.
+- **Contact** – Contact form including name, email, message, phone, and address.
+- **Footer** – Social media links, copyright, and additional details.
+
+---
+
+## 🖼️ Screenshots / Preview
+
+### Desktop
+
+| Home                          | About                           | Services                              |
+| ----------------------------- | ------------------------------- | ------------------------------------- |
+| ![Home](screenshots/home.jpg) | ![About](screenshots/about.jpg) | ![Services](screenshots/services.jpg) |
+
+| Portfolio                               | Contact                                    | Footer                                    |
+| --------------------------------------- | ------------------------------------------ | ----------------------------------------- |
+| ![Portfolio](screenshots/portfolio.jpg) | ![Contact](screenshots/contact-footer.jpg) | ![Footer](screenshots/contact-footer.jpg) |
+
+### Mobile
+
+| Mobile View                       |
+| --------------------------------- |
+| ![Mobile](screenshots/mobile.png) |
+
+> Screenshots showcase the responsiveness and clean design across devices.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Semantic and structured markup.
+- **CSS3** – Styling, layout, and responsive design.
+- **Responsive Design** – Fully optimized for **desktop, tablet, and mobile devices**.
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/YoussefAdel170/Leon-Template.git
+   ```
+2. **Navigate into the project directory**
+   ```bash
+   cd Leon-Template
+   ```
